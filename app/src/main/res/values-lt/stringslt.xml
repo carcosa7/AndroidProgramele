@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Benas Buinickas</string>
+    <string name="app_start">Pradėti žaidimą</string>
+    <string name="app_highscore">Geriausias rezultatas</string>
+    <string name="app_settings">Nustatymai</string>
+    <string name="app_about">Apie</string>
+</resources>
